@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-    <h1 className="text-3xl fontboldtext-blue-500">hola tailwind</h1>
+    <h1 className="text-3xl fontboldtext-blue-500">Angeles</h1>
       <section id="center">
         <div className="hero">
           <img src={heroImg} className="base" width="170" height="179" alt="" />
